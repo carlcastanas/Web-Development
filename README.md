@@ -71,7 +71,7 @@ This curated list provides resources for learning web development, from fundamen
 ## 9. **Build Real Projects:**
    - [GitHub](https://github.com/): Contribute to open source projects.
    - Undertake personal projects to apply your skills and build a portfolio.
-   - **Follow me on GitHub:**
+   - To stay updated on tech roadmaps, resources, and potential collaboration, follow me on Github:
       - [Carl Castañas (GitHub)](https://github.com/carlcastanas)
 
 ## 10. **Stay Updated:**
