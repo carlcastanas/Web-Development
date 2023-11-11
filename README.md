@@ -22,21 +22,28 @@ This curated list provides resources for learning web development, from fundamen
       - [Academind](https://www.youtube.com/c/Academind)
       - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 
-## 4. **Frontend Frameworks:**
-   - **React:**
+## 4. **Frontend Libraries and Frameworks:**
+   - **React (Library):**
       - [React Docs](https://reactjs.org/docs/getting-started.html): Official React documentation.
       - [React - The Complete Guide (Udemy)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/): Comprehensive React course.
       - **YouTube Channel:**
          - [Academind](https://www.youtube.com/c/Academind)
          - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 
-   - **Vue.js:**
+   - **Vue.js (Framework):**
       - [Vue.js Docs](https://vuejs.org/v2/guide/): Vue.js documentation.
       - [Vue.js - The Complete Guide (Udemy)](https://www.udemy.com/course/vuejs-2-the-complete-guide/): Comprehensive Vue.js course.
       - **YouTube Channel:**
          - [Academind](https://www.youtube.com/c/Academind)
          - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 
+   - **Angular (Framework):**
+      - [Angular Docs](https://angular.io/docs): Official Angular documentation.
+      - [Angular - Full Course (freeCodeCamp)](https://www.youtube.com/watch?v=htPYk6QxacQ): Comprehensive Angular course.
+      - **YouTube Channel:**
+         - [Academind](https://www.youtube.com/c/Academind)
+         - [Codevolution](https://www.youtube.com/c/Codevolution)
+           
 ## 5. **Backend Development:**
    - **Node.js:**
       - [Node.js Docs](https://nodejs.org/en/docs/): Official Node.js documentation.
