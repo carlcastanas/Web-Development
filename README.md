@@ -13,6 +13,20 @@ This curated list provides resources for learning web development, from fundamen
     -   [Programming with Mosh](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=2283s)
     -   [Kevin Powell](https://www.youtube.com/@Fireship)
 
+### **CSS Frameworks and Libraries**
+
+-   **Tailwind (Framework):**
+    -   [Tailwind Docs](https://tailwindcss.com): Official Tailwind documentation.
+    -   **YouTube Channel:**
+        -   [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp)
+        -   [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+        -   [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+-   **Bootstrap (Framework):**
+    -   [Bootstrap Docs](https://getbootstrap.com): Official Bootstrap documentation.
+    -   **YouTube Channel:**
+        -   [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+        -   [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+
 ## 2. **JavaScript:**
 
 -   [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide): Comprehensive JavaScript documentation.
