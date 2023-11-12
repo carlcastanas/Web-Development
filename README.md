@@ -85,10 +85,29 @@ This curated list provides resources for learning web development, from fundamen
         -   [Codevolution](https://youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY&si=tJ689xesoizGMqh2)
 
 -   **Express.js:**
+
     -   [Express.js Docs](https://expressjs.com/): Express.js documentation.
     -   **YouTube Channel:**
         -   [Academind](https://www.youtube.com/c/Academind)
         -   [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+
+-   **PHP:**
+
+    -   [PHP Official Documentation](https://www.php.net/manual/en/): The official documentation for the PHP programming language.
+    -   [PHP: The Right Way](https://phptherightway.com/): A community-driven guide to best practices and reliable resources for PHP development.
+    -   **YouTube Channel:**
+        -   [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+        -   [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+        -   [Bro Code](https://www.youtube.com/@BroCodez)
+
+-   **Laravel:**
+
+    -   [Laravel Documentation](https://laravel.com/docs): Official documentation for the Laravel PHP framework.
+    -   [Laracasts](https://laracasts.com/): Screencasts on Laravel, modern PHP, and more.
+    -   [Laravel News](https://laravel-news.com/): The latest news and information about Laravel.
+    -   **YouTube Channel:**
+        -   [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+        -   [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 
 ## 6. **Databases:**
 
