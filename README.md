@@ -6,11 +6,13 @@ This curated list provides resources for learning web development, from fundamen
 ## 1. **HTML and CSS:**
    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web): Comprehensive documentation for HTML and CSS.
    - [W3Schools HTML](https://www.w3schools.com/html/) | [W3Schools CSS](https://www.w3schools.com/css/): Interactive tutorials.
+   - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified): Great for teaching the basics
 
 ## 2. **JavaScript:**
    - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide): Comprehensive JavaScript documentation.
    - [Eloquent JavaScript](https://eloquentjavascript.net/): Free online book.
    - [JavaScript.info](https://javascript.info/): In-depth tutorials and guides.
+   - [Fireship](https://www.youtube.com/@Fireship): Short video explainations about different javascript frameworks
    - **YouTube Channel:**
       - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
       - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
@@ -29,6 +31,7 @@ This curated list provides resources for learning web development, from fundamen
       - **YouTube Channel:**
          - [Academind](https://www.youtube.com/c/Academind)
          - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+         - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
 
    - **Vue.js (Framework):**
       - [Vue.js Docs](https://vuejs.org/v2/guide/): Vue.js documentation.
@@ -36,6 +39,8 @@ This curated list provides resources for learning web development, from fundamen
       - **YouTube Channel:**
          - [Academind](https://www.youtube.com/c/Academind)
          - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+         - [LearnVue](https://www.youtube.com/@LearnVue)
+         - [Program with Erik](https://www.youtube.com/@ProgramWithErik)
 
    - **Angular (Framework):**
       - [Angular Docs](https://angular.io/docs): Official Angular documentation.
