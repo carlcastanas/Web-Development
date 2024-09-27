@@ -1,0 +1,150 @@
+/* ========== ID Selector ========== */
+/* Use the ID selector to style a unique element */
+#unique-element {
+    color: white;
+    background-color: green;
+    font-size: 20px;
+}
+
+/* ========== Class Selector ========== */
+/* Use the class selector to style multiple elements */
+.common-style {
+    color: black;
+    background-color: lightgreen;
+    font-size: 18px;
+}
+
+/* ========== Colors ========== */
+/* Color names */
+.element1 {
+    color: blue;               /* Text color */
+    background-color: yellow;   /* Background color */
+}
+
+/* Hexadecimal */
+.element2 {
+    color: #ff5733;             /* Text color */
+    background-color: #333333;  /* Background color */
+}
+
+/* RGB */
+.element3 {
+    color: rgb(255, 0, 0);         /* Text color */
+    background-color: rgb(0, 255, 0); /* Background color */
+}
+
+/* RGBA (with alpha transparency) */
+.element4 {
+    color: rgba(0, 0, 255, 0.5);   /* 50% transparent blue */
+    background-color: rgba(0, 0, 0, 0.2); /* 20% transparent black */
+}
+
+/* ========== Borders ========== */
+/* Border styles */
+.border-style {
+    border: 2px solid black;     /* Solid black border, 2px wide */
+}
+
+/* Border with rounded corners */
+.rounded-border {
+    border: 3px dotted red;
+    border-radius: 10px;         /* Rounded corners with 10px radius */
+}
+
+/* Different borders on each side */
+.custom-borders {
+    border-top: 5px dashed blue;
+    border-right: 4px double green;
+    border-bottom: 2px solid black;
+    border-left: 1px dotted red;
+}
+
+/* ========== Padding and Margin ========== */
+/* Padding adds space inside the element, margin outside */
+.padding-margin {
+    padding: 20px;  /* 20px space inside the element */
+    margin: 15px;   /* 15px space outside the element */
+}
+
+/* Specific padding or margin for each side */
+.custom-padding-margin {
+    padding: 10px 20px 30px 40px; /* top right bottom left */
+    margin: 5px 10px 15px 20px;   /* top right bottom left */
+}
+
+/* ========== Backgrounds ========== */
+/* Background image */
+.bg-image {
+    background-image: url('path-to-image.jpg');
+    background-size: cover;        /* Cover entire element */
+    background-repeat: no-repeat;  /* No repeat */
+}
+
+/* Linear gradient background */
+.gradient-bg {
+    background: linear-gradient(to right, #ff7e5f, #feb47b); /* Left to right gradient */
+}
+
+/* ========== Text Styling ========== */
+.text-style {
+    font-family: 'Arial', sans-serif; /* Font family */
+    font-size: 16px;                  /* Text size */
+    font-weight: bold;                /* Bold text */
+    font-style: italic;               /* Italic text */
+    text-transform: uppercase;        /* All text to uppercase */
+    text-align: center;               /* Center text */
+}
+
+/* ========== Box Shadow ========== */
+.box-shadow {
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); /* Shadow with offset, blur, and transparency */
+}
+
+/* ========== Flexbox ========== */
+/* Container for flexbox layout */
+.flex-container {
+    display: flex;
+    justify-content: space-between;  /* Distribute space between elements */
+    align-items: center;             /* Align elements vertically */
+}
+
+/* Flex item properties */
+.flex-item {
+    flex: 1;                         /* Flex-grow to fill space equally */
+    margin: 10px;                    /* Margin between items */
+}
+
+/* ========== Grid ========== */
+/* Container for grid layout */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 equal-width columns */
+    gap: 10px;                            /* Space between grid items */
+}
+
+/* Grid item properties */
+.grid-item {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+
+/* ========== Transitions ========== */
+/* Adding smooth transitions to elements */
+.transition-effect {
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Transition on background color and transform */
+}
+
+.transition-effect:hover {
+    background-color: yellow;
+    transform: scale(1.2); /* Scale up on hover */
+}
+
+/* ========== Media Queries ========== */
+/* Responsive design for different screen sizes */
+@media (max-width: 600px) {
+    .responsive-element {
+        font-size: 14px;
+        padding: 10px;
+    }
+}
